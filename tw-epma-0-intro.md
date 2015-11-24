@@ -1,4 +1,4 @@
-% View- and Dependency Injection
+% Introduction
 % Patrick Sturm
 % 24.11.2015
 
