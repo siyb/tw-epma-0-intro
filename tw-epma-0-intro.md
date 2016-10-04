@@ -15,7 +15,6 @@
     * Written exam
     * 3 Questions, each of which is worth 5 points
     * Total of 15 Points
-* Unlike FDPSA, there will be no mandatory exercise to hand in this time!
 * If you are diligently doing the in session exercises, you will not have an issue answering those questions ;)
 
 ## Process
