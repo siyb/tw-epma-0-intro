@@ -40,7 +40,7 @@
 * Session 3:
     * Mobile API Design
         * Dos and Don'ts
-        * Introduction into node.js / npm / mongoDB and relevant libraries / frameworks
+        * Introduction into node.js / npm / loopback / frameworks
     * We will be working with node.js to create our very own (small) API
 
 # Questions?
