@@ -9,6 +9,12 @@
 * Patrick Sturm
 * E-Mail sturm@technikum-wien.at
 
+## About Me
+
+* started out as a mobile app developer in 2011, working on high profile mobile apps for 3 years
+* chief executive and backend / android developer at Spherical Elephant GmbH since 2014
+    * we specialize in full stack web development
+
 ## This is how you get your grade
 
 * At the end of the course (last session), there will be a short exam taking 45 minutes
